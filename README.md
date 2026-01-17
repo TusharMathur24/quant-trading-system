@@ -1,7 +1,5 @@
 # Quantitative Trading Strategy Development
 
----
-
 ## Overview
 
 This project presents the end-to-end development of a quantitative trading strategy using historical **NIFTY daily market data**.  
